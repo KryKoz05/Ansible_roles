@@ -1,0 +1,3 @@
+deployment_path: "~/Infrastructure"
+git_repository: "https://github.com/KryKoz05/Infrastructure"
+git_branch: "main"
